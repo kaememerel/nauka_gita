@@ -56,3 +56,5 @@ git push -u origin main
 git config --global credential.helper store
 
 # now the credentials should be stored
+
+# mozna sobie sklonowac projekt 
