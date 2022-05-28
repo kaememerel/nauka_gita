@@ -46,3 +46,8 @@ git status
 git commit -m "My N commit" # N=1,2,3
 git status
 git log
+
+# nastepne komendy zeby kolejno dodac plik
+git remote add origin https://github.com/kaememerel/nauka_gita.git
+git branch -M main
+git push -u origin main
