@@ -57,4 +57,5 @@ git config --global credential.helper store
 
 # now the credentials should be stored
 
-# mozna sobie sklonowac projekt 
+# mozna sobie sklonowac projekt
+git clone https://github.com/kaememerel/nauka_gita.git
