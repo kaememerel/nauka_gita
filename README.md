@@ -54,3 +54,5 @@ git push -u origin main
 
 # credential helper
 git config --global credential.helper store
+
+# now the credentials should be stored
