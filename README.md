@@ -38,3 +38,11 @@ touch README.md
 # otwórz edytor atom w katalogu glownym
 # repozytorium
 atom .
+
+# komendy git
+git status
+git add README.md
+git status
+git commit -m "My N commit" # N=1,2,3
+git status
+git log
