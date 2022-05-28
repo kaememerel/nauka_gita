@@ -59,3 +59,13 @@ git config --global credential.helper store
 
 # mozna sobie sklonowac projekt
 git clone https://github.com/kaememerel/nauka_gita.git
+
+# dodawanie brancha
+git checkout -b add_documentation
+# sprawdzanie branchy
+git branch
+
+# sciaganie wiedzy o branchach
+git fetch
+# przechodzenie do innego brancha
+git checkout add_documentation
