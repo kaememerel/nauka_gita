@@ -51,3 +51,6 @@ git log
 git remote add origin https://github.com/kaememerel/nauka_gita.git
 git branch -M main
 git push -u origin main
+
+# credential helper
+git config --global credential.helper store
